@@ -1,0 +1,14 @@
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\bin\Debug\net6.0\PerformanceTest.exe
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\bin\Debug\net6.0\PerformanceTest.deps.json
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\bin\Debug\net6.0\PerformanceTest.runtimeconfig.json
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\bin\Debug\net6.0\PerformanceTest.dll
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\bin\Debug\net6.0\PerformanceTest.pdb
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\obj\Debug\net6.0\PerformanceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\obj\Debug\net6.0\PerformanceTest.AssemblyInfoInputs.cache
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\obj\Debug\net6.0\PerformanceTest.AssemblyInfo.cs
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\obj\Debug\net6.0\PerformanceTest.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\obj\Debug\net6.0\PerformanceTest.dll
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\obj\Debug\net6.0\refint\PerformanceTest.dll
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\obj\Debug\net6.0\PerformanceTest.pdb
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\obj\Debug\net6.0\PerformanceTest.genruntimeconfig.cache
+C:\Users\Burhan\source\repos\PerformanceTest\PerformanceTest\obj\Debug\net6.0\ref\PerformanceTest.dll
